@@ -88,7 +88,7 @@ What's actively being built and added to this repo next:
 - [ ] **SIEM/SOC Mini-Lab** — Splunk or Security Onion, detection rules, and a SOC-analyst-style incident writeup
 - [ ] **AWS Cloud Security** — flaws.cloud walkthrough covering S3 misconfigurations and IAM privilege escalation
 - [ ] **TryHackMe/HackTheBox Writeups** — structured methodology breakdowns, not just "room completed"
-- [ ] **GRC Documentation** — ISO 27001-style risk register and NIS2 applicability analysis
+- [x] GRC Documentation — [ISO/IEC 27001 Risk Register + NIS2 Applicability Note](./02-grc-iso27001)
 
 This list is intentionally public — it's my actual build plan, and I'd rather show honest progress than a repo that looks finished when it isn't.
 
